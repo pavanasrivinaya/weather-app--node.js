@@ -1,5 +1,3 @@
-console.log("Client side js file is loaded!!!")
-
 // SEarch form for the location
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
